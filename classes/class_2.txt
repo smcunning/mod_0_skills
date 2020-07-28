@@ -1,0 +1,13 @@
+Diner class
+
+Attributes
+1. party_name (string)
+2. number_in_party (integer)
+3. special_occasion (boolean)
+4. table_assignment (integer)
+
+Methods
+1. add_guest (Increases number_in_party by 1)
+2. celebrate (Changes the special_occasion attribute to true)
+3. change_table (Changes the table_assignment to the next available table)
+4. change_name (Changes the party_name to a new name)
