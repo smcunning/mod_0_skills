@@ -1,0 +1,13 @@
+DonnerParty
+
+Attributes
+1. party_name = "Donner Party"
+2. number_in_party = 6
+3. special_occasion = false
+4. table_assignment = 1
+
+Methods
+1. add_guest: number_in_party = 7
+2. celebrate: special_occasion = true
+3. change_table: table_assignment = 2
+4. change_name: party_name = "Domnhall Party"
