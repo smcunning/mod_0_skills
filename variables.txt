@@ -1,0 +1,11 @@
+Variables Challenge
+
+food = "Yes, please."
+is_delicious = true
+food = "Is there any left?"
+num2 = 2
+num7 = 7
+quotient = num7 / num2
+songs = ["Istanbul", "Particle Man", "Birdhouse In Your Soul"]
+songs.delete(0)
+food.size
