@@ -1,0 +1,14 @@
+Dinner Class
+
+Attributes of Dinner Class:
+1. protein (string)
+2. starch (string)
+3. vegetable (string)
+4. price (float)
+5. in_stock (boolean)
+
+Methods of Dinner Class:
+1. update_stock (Changes the in_stock attribute to true or false)
+2. discount (Reduces the price attribute to apply a discount of $1.00)
+3. make_vegetarian (Removes the protein and adds another vegetable)
+4. change_starch (Changes the starch attribute to another starch)
