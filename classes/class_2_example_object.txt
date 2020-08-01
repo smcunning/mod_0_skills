@@ -3,7 +3,7 @@ DonnerParty
 Attributes
 1. party_name = "Donner Party"
 2. number_in_party = 6
-3. special_occasion = false
+3. is_special_occasion = false
 4. table_assignment = 1
 
 Methods
