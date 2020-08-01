@@ -5,10 +5,10 @@ protein = "steak"
 starch = "mashed potatoes"
 vegetable = "green beans"
 price = 54.50
-in_stock = true
+is_in_stock = true
 
 Methods
-update_stock: in_stock = false
+update_stock: is_in_stock = false
 discount: price = 53.50
 make_vegetarian: protein = " ", vegetable = "green beans, green beans"
 change_starch: starch = "baked potato"
