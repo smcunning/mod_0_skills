@@ -1,4 +1,4 @@
-Customer class
+Reservation class
 
 Attributes
 1. party_name (string)
